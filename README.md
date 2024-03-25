@@ -1,3 +1,8 @@
+#ELE 527
+#AUDIO ANALYZER PROJECT WORK
+#TELECOMMUNICATIONS STUDENT DETAILS
+
+
 | Name                  | Matric Number |
 |-----------------------|---------------|
 | Adekoya Emmanuel      | 20181643      |
